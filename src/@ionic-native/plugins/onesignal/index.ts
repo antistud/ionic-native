@@ -303,7 +303,7 @@ export enum OSActionType {
 /**
  * @name OneSignal
  * @description
- * The OneSignal plugin is an client implementation for using the [OneSignal](https://onesignal.com/) Service.
+ * The OneSignal plugin is a client implementation for using the [OneSignal](https://onesignal.com/) Service.
  * OneSignal is a simple implementation for delivering push notifications.
  *
  * Please view the official [OneSignal Ionic SDK Installation](https://documentation.onesignal.com/docs/ionic-sdk-setup) guide
